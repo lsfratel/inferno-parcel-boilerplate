@@ -1,0 +1,14 @@
+.DS_Store
+.cache
+.idea
+.DS_Store
+.vscode
+
+dist
+dev
+node_modules
+
+package-lock.json
+yarn.lock
+yarn-error.log
+npm-debug.log
